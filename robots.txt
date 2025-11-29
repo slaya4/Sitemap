@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://slaya4.github.io/sitemap.xml
+Sitemap: https://slaya4.github.io/Sitemap/sitemap.xml
